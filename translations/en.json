@@ -1,0 +1,154 @@
+{
+  "general": {
+    "continue": "Continue",
+    "skip": "Skip",
+    "start_now": "Start now",
+    "congratulations": "Congratulations!",
+    "learn_more": "Learn more",
+    "hours": "Hours",
+    "remove_ads": "Remove Ads",
+    "lesson": "Lesson",
+    "bonus": "Bonus",
+    "free": "Free",
+    "logout": "Logout",
+    "login": "Login",
+    "no_thanks": "No thanks",
+    "cancel": "Cancel",
+    "restart": "Restart now",
+    "check": "Check",
+    "successful_operation": "Operation completed successfully",
+    "lang_update": "Language updated to",
+    "yes": "Yes",
+    "ask_later": "Ask me later",
+    "new_content": "New content coming soon inshaAllah",
+    "new": "New",
+    "save": "Save",
+    "or": "or"
+  },
+  "paywall": {
+    "restore": "Restore",
+    "tts": "Terms",
+    "privacy": "Privacy",
+    "success": "Subscription is successful!",
+    "restore_success": "Restored successfully",
+    "no_subscriptions": "No subscriptions found!",
+    "invalid_promo": "is not valid!",
+    "redeem_code": "Do you have a promo cdoe?",
+    "activating": "Activating your subscription..."
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "language": "Language",
+    "username": "Change username",
+    "subscription": "Manage premium subscription",
+    "customer": "Contact customer service",
+    "friendsCode": "Enter a friend's code",
+    "inviteFriends": "Invite a friend",
+    "logout": "Log out",
+    "logoutConfirmationModal": {
+      "text": "Are you sure you want to log out? Your progress will be lost."
+    }
+  },
+  "login": {
+    "description": "It's time to discover the incredible history of this amazing country.",
+    "google": "Continue with Google",
+    "guest": "Play as a Guest",
+    "apple": "Continue with Apple"
+  },
+  "home": {
+    "greeting": "Good Morning 👋",
+    "headerTitle": "Start Your Day & be Productive",
+    "progressBar": {
+      "title": "Current progress",
+      "message": {
+        "done": "🥳 You did it ! 🎉",
+        "almostThere": "🌟👍 You are almost there!",
+        "keepGoing": "👍 You're doing great!",
+        "makingProgress": "💪 You're making progress!",
+        "letsStartLearning": "🎯 Let's start learning!"
+      }
+    },
+    "category": {
+      "history": "History",
+      "geography": "Geography",
+      "culture": "Culture"
+    },
+    "progress": {
+      "history": "History of Morocco",
+      "geography": "Geography",
+      "culture": "Culture and traditions",
+      "cuisine": "Moroccan cuisine",
+      "personalities": "Moroccan personalities",
+      "monuments": "Monuments and touristic sites"
+    }
+  },
+  "levels": {
+    "easy": "Easy",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "progress": "Progress",
+  "title": {
+    "category": "Categories"
+  },
+  "question": {
+    "timeup": "Time's up! You lost 1 heart",
+    "incorrect": "Incorrect! You lost 1 heart",
+    "next": "Next",
+    "finish": "Finish"
+  },
+  "result": {
+    "correct": "Correct",
+    "wrong": "Wrong",
+    "retry": "Retry",
+    "backHome": "Back to home",
+    "title": "Quiz Result",
+    "correctAnswers": "correct answers",
+    "wrongAnswers": "wrong answers",
+    "next_quiz": "Next Quiz"
+  },
+  "quiz": {
+    "exitTitle": "Quit quiz",
+    "exitMessage": "Are you sure you want to quit? Your progress will be lost.",
+    "start": "Start",
+    "next": "Next",
+    "try_again": "Try Again !"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "exit": "Exit",
+    "yes": "Yes",
+    "no": "No",
+    "submit": "Submit"
+  },
+  "hearts": {
+    "title": "My Hearts",
+    "remaining": "hearts remaining",
+    "nextHeart": "Next heart in",
+    "fullRecharge": "Full recharge in",
+    "noHearts": "No hearts available",
+    "waitMessage": "You must wait {{time}} to get a new heart",
+    "finishPrevious": "Finish the previous level first"
+  },
+  "language": {
+    "english": "English",
+    "french": "French",
+    "spanish": "Spanish"
+  },
+  "feedback": {
+    "enjoyingApp": "Do you enjoy the app?",
+    "improvementSuggestion": "How can we improve?",
+    "placeholder": "Share your suggestions..."
+  },
+  "refill_hearts": {
+    "next_heart": "Next heart in",
+    "run_out_of_hearts": "You ran out of hearts!",
+    "text": "Turn on Unlimited Hearts for unlimited learning without worrying about mistakes.",
+    "unlimited": "Unlimited",
+    "refill": "Refill"
+  },
+  "categories_tab": {
+    "main_desc": "Discover Morocco's history, culture, and geography through exciting quizzes ✨"
+  }
+}

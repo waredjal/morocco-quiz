@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126954638537",
+    "firebase_url": "https://morocco-quiz-37b90-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "morocco-quiz-37b90",
+    "storage_bucket": "morocco-quiz-37b90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126954638537:android:f442aedf578f7ceb89d118",
+        "android_client_info": {
+          "package_name": "com.moroccoquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126954638537-lgc5a7i9p930pe5s3vbdnd3g995aqcbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moroccoquiz",
+            "certificate_hash": "a79088d3166130c5919564b824cb22b3903dbabb"
+          }
+        },
+        {
+          "client_id": "126954638537-9j5mkpvtrivrebm28e5omv50fq4h27mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrQd0SxZCk_Ju24FU6LlJH0bxU5fxhwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126954638537-9j5mkpvtrivrebm28e5omv50fq4h27mu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126954638537-a71s3nbb2ak4f6q51l18vhb5gagfnp32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moroccoquiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

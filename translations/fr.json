@@ -1,0 +1,147 @@
+{
+  "general": {
+    "continue": "Continue",
+    "skip": "Skip",
+    "start_now": "Start now",
+    "congratulations": "Congratulations!",
+    "learn_more": "Learn more",
+    "hours": "Hours",
+    "remove_ads": "Remove Ads",
+    "lesson": "Lesson",
+    "bonus": "Bonus",
+    "free": "Free",
+    "logout": "Logout",
+    "login": "Login",
+    "no_thanks": "No thanks",
+    "cancel": "Cancel",
+    "restart": "Restart now",
+    "check": "Check",
+    "successful_operation": "Operation completed successfully",
+    "lang_update": "Language updated to",
+    "yes": "Yes",
+    "ask_later": "Ask me later",
+    "new_content": "New content coming soon inshaAllah",
+    "new": "New",
+    "save": "Save",
+    "or": "or"
+  },
+  "settings": {
+    "username": "Changer le nom d'utilisateur",
+    "subscription": "Gérer mon abonnement",
+    "customer": "Contacter le SAV",
+    "friendsCode": "Entrer un code ami",
+    "inviteFriends": "Inviter un ami",
+    "logout": "Déconnexion",
+    "logoutConfirmationModal": {
+      "text": "Êtes-vous sûr de vouloir déconnexion ? Votre progression sera perdue."
+    }
+  },
+  "paywall": {
+    "restore": "Restaurer",
+    "tts": "Conditions",
+    "privacy": "Confidentialité",
+    "success": "Abonnement réussi !",
+    "restore_success": "Restauration réussie",
+    "no_subscriptions": "Aucun abonnement n'a été trouvé.",
+    "invalid_promo": "n'est pas valide!",
+    "redeem_code": "Avez-vous un code promotionnel ?",
+    "activating": "Activation de votre abonnement..."
+  },
+  "login": {
+    "description": "Il est temps de découvrir l'histoire incroyable de ce pays extraordinaire.",
+    "google": "Continuer avec Google",
+    "guest": "Jouer en tant qu'invité",
+    "apple": "Continuer avec Apple"
+  },
+  "home": {
+    "greeting": "Bonjour 👋",
+    "headerTitle": "Débutez votre journée et soyez productif",
+    "progressBar": {
+      "title": "Progression actuelle",
+      "message": {
+        "done": "🥳 Vous l'avez fait ! 🎉",
+        "almostThere": "🌟👍 Vous y êtes presque !",
+        "keepGoing": "👍 Déjà à plus de la moitié !",
+        "makingProgress": "💪 Vous progressez !",
+        "letsStartLearning": "🎯 Commencez à apprendre !"
+      }
+    },
+    "category": {
+      "history": "Histoire",
+      "geography": "Géographie",
+      "culture": "Culture"
+    },
+    "progress": {
+      "history": "Histoire du Maroc",
+      "geography": "Géographie",
+      "culture": "Culture et traditions",
+      "cuisine": "Cuisine",
+      "personalities": "Personnalités",
+      "monuments": "Monuments et sites touristiques"
+    }
+  },
+  "levels": {
+    "easy": "Facile",
+    "intermediate": "Intermédiaire",
+    "advanced": "Avancé"
+  },
+  "progress": "Progression",
+  "title": {
+    "category": "Catégories"
+  },
+  "question": {
+    "timeup": "Temps écoulé ! Vous avez perdu 1 cœur",
+    "incorrect": "Incorrect ! Vous avez perdu 1 cœur",
+    "next": "Suivant",
+    "finish": "Terminer"
+  },
+  "result": {
+    "correct": "Correcte",
+    "wrong": "Faux",
+    "retry": "Recommencer",
+    "backHome": "Retour à l'accueil",
+    "title": "Résultat du quiz",
+    "correctAnswers": "bonnes réponses",
+    "wrongAnswers": "mauvaises réponses"
+  },
+  "quiz": {
+    "exitTitle": "Quitter le quiz",
+    "exitMessage": "Voulez-vous vraiment quitter ? Votre progression sera perdue.",
+    "noHearts": "Vous n'avez plus de cœurs !",
+    "nextHeartIn": "Prochain cœur dans : {{time}}",
+    "waitMessage": "Revenez plus tard ou regardez une publicité pour obtenir un cœur"
+  },
+  "common": {
+    "cancel": "Annuler",
+    "exit": "Quitter",
+    "yes": "Oui",
+    "no": "Non",
+    "submit": "Envoyer"
+  },
+  "hearts": {
+    "title": "Mes Cœurs",
+    "remaining": "cœurs restants",
+    "nextHeart": "Prochain cœur dans",
+    "fullRecharge": "Recharge complète dans",
+    "noHearts": "Plus de cœurs disponibles",
+    "waitMessage": "Vous devez attendre {{time}} pour obtenir un nouveau cœur",
+    "finishPrevious": "Terminez d'abord le niveau précédent"
+  },
+  "language": {
+    "english": "Anglais",
+    "french": "Français",
+    "spanish": "Espagnol"
+  },
+  "feedback": {
+    "enjoyingApp": "Appréciez-vous l'application ?",
+    "improvementSuggestion": "Comment pouvons-nous nous améliorer ?",
+    "placeholder": "Partagez vos suggestions..."
+  },
+  "refill_hearts": {
+    "next_heart": "Prochain coeur dans",
+    "run_out_of_hearts": "Tu n'as plus de coeur !",
+    "text": "Active les coeurs illimités pour t'entrainer sans te soucier de tes erreurs.",
+    "unlimited": "Illimités",
+    "refill": "Recharge de coeurs"
+  }
+}
